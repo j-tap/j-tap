@@ -1,4 +1,7 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
+<a href="https://stand-with-ukraine.pp.ua" target="_blank">
+  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="stand with Ukraine">
+</a>
 <br><br>
 :four_leaf_clover:
 <br>
