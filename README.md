@@ -28,7 +28,7 @@
   &nbsp;
   <a href="https://t.me/j_tap" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram"></a>
   &nbsp;
-  <a href="mailto:j-tap@ya.ru" target="_blank"><img src="https://img.shields.io/badge/Email-D34335?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAo0lEQVQokZWQIQ7CUAxA3x8SwxVIdgaYxWDQCO6CRODBcAKugMMRSLjBBA6BmcGyh2ALy0jg80zT9rVpCn8S1BEwiPRPQS2AXuRAkQArwAhZYJ0AJTAFim+bK6fEF3t1qB785Kxm6k6VRuOmTtSlWla1jTpWr7UU1Ob9D2ABHKs8A+ZApxbaAzWXKvbbjaDmQBrxJYA8qCkwA7o/5DuwjVz85gn7TYFwSET6CwAAAABJRU5ErkJggg==&logoColor=white&style=flat-square" alt="Email"></a>
+  <a href="mailto:xzenby@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D34335?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAo0lEQVQokZWQIQ7CUAxA3x8SwxVIdgaYxWDQCO6CRODBcAKugMMRSLjBBA6BmcGyh2ALy0jg80zT9rVpCn8S1BEwiPRPQS2AXuRAkQArwAhZYJ0AJTAFim+bK6fEF3t1qB785Kxm6k6VRuOmTtSlWla1jTpWr7UU1Ob9D2ABHKs8A+ZApxbaAzWXKvbbjaDmQBrxJYA8qCkwA7o/5DuwjVz85gn7TYFwSET6CwAAAABJRU5ErkJggg==&logoColor=white&style=flat-square" alt="Email"></a>
 </div>
 <br><br>
 <div>
