@@ -1,4 +1,4 @@
-<a align="left" href="[https://stand-with-ukraine.pp.ua](https://www.linkedin.com/in/j-tap/)" target="_blank">
+<a align="left" href="https://www.linkedin.com/in/j-tap/" target="_blank">
   <img align="right" src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="20" alt="looking for a job">
 </a>
 <a align="left" href="https://stand-with-ukraine.pp.ua" target="_blank">
