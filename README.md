@@ -5,7 +5,7 @@
 <br><br>
 <div>
   <span>:four_leaf_clover:</span>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="32" alt="looking for a job">
+  <img align="right" src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="32" alt="looking for a job">
 </div>
 <br>
 
@@ -19,7 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" alt="NuxtJS" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original.svg" title="GraphQL" alt="GraphQL" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="32" height="32"/>&nbsp;
