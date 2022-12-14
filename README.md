@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="stand with Ukraine">
 </a>
 <br><br>
-:four_leaf_clover:
+:four_leaf_clover:&nbsp;<img src="https://img.shields.io/static/v1?label=<LABEL>&message=Looking%20for%20a%20job&color=brightgreen&style=flat" height="32" alt="looking for a job">
 <br>
 
 <h4>Skills</h4>
@@ -15,6 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" alt="NuxtJS" width="32" height="32"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="32" height="32"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original.svg" title="GraphQL" alt="GraphQL" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="32" height="32"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="32" height="32"/>&nbsp;
@@ -32,7 +34,7 @@
 </div>
 <br><br>
 <div>
-    <img src="https://komarev.com/ghpvc/?username=j-tap&color=161B22&style=flat-square&label=Views" alt="Views"/>
+    [<img src="https://komarev.com/ghpvc/?username=j-tap&color=161B22&style=flat-square&label=Views" alt="Views"/>](https://img.shields.io/github/watchers/j-tap/j-tap?style=flat-square)
 </div>
 <br>
 
@@ -40,19 +42,4 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-tap&layout=compact&theme=synthwave&langs_count=6&hide_title=true&range=last_6_months" alt="Stats"/>
 </div>
--->
-
-<!--
-**j-tap/j-tap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
