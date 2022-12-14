@@ -37,7 +37,7 @@
 </div>
 <br><br>
 <div>
-    [<img src="https://komarev.com/ghpvc/?username=j-tap&color=161B22&style=flat-square&label=Views" alt="Views"/>](https://img.shields.io/github/watchers/j-tap/j-tap?style=flat-square)
+    <a href="https://img.shields.io/github/watchers/j-tap/j-tap?style=flat-square" target="_blank"><img src="https://komarev.com/ghpvc/?username=j-tap&color=161B22&style=flat-square&label=Views" alt="Views"/></a>
 </div>
 <br>
 
