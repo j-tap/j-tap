@@ -1,5 +1,5 @@
 <a align="left" href="https://www.linkedin.com/in/j-tap/" target="_blank">
-  <img align="right" src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="20" alt="looking for a job">
+  <img align="right" src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="24" alt="looking for a job">
 </a>
 <a align="left" href="https://stand-with-ukraine.pp.ua" target="_blank">
   <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="stand with Ukraine">
