@@ -4,7 +4,7 @@
 </a>
 <br><br>
 <div>
-  <span>:four_leaf_clover:</span>&inbsp;
+  <span>:four_leaf_clover:</span>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="32" alt="looking for a job">
 </div>
 <br>
