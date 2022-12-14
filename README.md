@@ -1,11 +1,10 @@
-
+<img align="right" src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="32" alt="looking for a job">
 <a href="https://stand-with-ukraine.pp.ua" target="_blank">
   <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="stand with Ukraine">
 </a>
 <br><br>
 <div>
   <span>:four_leaf_clover:</span>&nbsp;
-  <img align="right" src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="32" alt="looking for a job">
 </div>
 <br>
 
