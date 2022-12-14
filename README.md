@@ -3,7 +3,10 @@
   <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="stand with Ukraine">
 </a>
 <br><br>
-<span>:four_leaf_clover:</span>&nbsp;<img src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="32" alt="looking for a job">
+<p style="display:flex;justify-content:space-between">
+  <span>:four_leaf_clover:</span>
+  <img src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="32" alt="looking for a job">
+</p>
 <br>
 
 <h4>Skills</h4>
