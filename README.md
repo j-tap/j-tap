@@ -1,51 +1,91 @@
-<!-- <a align="left" href="https://www.linkedin.com/in/j-tap/" target="_blank">
-  <img align="right" src="https://img.shields.io/static/v1?label=&message=Looking%20for%20a%20job&color=brightgreen&style=flat" width="auto" height="24" alt="looking for a job">
-</a> -->
-<a align="left" href="https://stand-with-ukraine.pp.ua" target="_blank">
-  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="stand with Ukraine">
-</a>
-<br><br>
-<div>
-  <span>:four_leaf_clover:</span>&nbsp;
-</div>
-<br>
+[![#StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-<h4>Skills</h4>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS3" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/stylus/stylus-original.svg"  title="Stylus" alt="Stylus" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" alt="NuxtJS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="32" height="32"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="32" height="32"/>&nbsp;
-</div>
+:four_leaf_clover:
 
-<h4>Contacts</h4>
-<div>
-  <a href="https://www.linkedin.com/in/j-tap/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://t.me/j_tap" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram"></a>
-  &nbsp;
-  <a href="mailto:xzenby@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D34335?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAo0lEQVQokZWQIQ7CUAxA3x8SwxVIdgaYxWDQCO6CRODBcAKugMMRSLjBBA6BmcGyh2ALy0jg80zT9rVpCn8S1BEwiPRPQS2AXuRAkQArwAhZYJ0AJTAFim+bK6fEF3t1qB785Kxm6k6VRuOmTtSlWla1jTpWr7UU1Ob9D2ABHKs8A+ZApxbaAzWXKvbbjaDmQBrxJYA8qCkwA7o/5DuwjVz85gn7TYFwSET6CwAAAABJRU5ErkJggg==&logoColor=white&style=flat-square" alt="Email"></a>
-</div>
-<br><br>
-<div>
-    <a href="https://img.shields.io/github/watchers/j-tap/j-tap?style=flat-square" target="_blank"><img src="https://komarev.com/ghpvc/?username=j-tap&color=161B22&style=flat-square&label=Views" alt="Views"/></a>
-</div>
-<br>
+💼 [#OpenToWork](https://www.linkedin.com/in/klarkc)
 
-<!--
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-tap&layout=compact&theme=synthwave&langs_count=6&hide_title=true&range=last_6_months" alt="Stats"/>
-</div>
--->
+#### 💻 About
+
+👋 Hi, specialize in building scalable web applications using modern technology stack.
+
+
+#### ⚡ Technologies
+##### Main
+###### Frontend
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7E029?style=flat&logo=javascript&logoColor=fff&labelColor=000)](https://www.w3schools.com/js/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff&labelColor=000)](https://www.w3schools.com/typescript/typescript_intro.php)
+[![VueJS](https://img.shields.io/badge/-VueJS-1DC384?style=flat&logo=vuedotjs&logoColor=fff&labelColor=000)](https://vuejs.org/)
+[![NuxtJS](https://img.shields.io/badge/-NuxtJS-1D8B79?style=flat&logo=vuedotjs&logoColor=fff&labelColor=000)](https://nuxt.com/)
+[![Pinia](https://img.shields.io/badge/-Pinia-FFD85B?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBoZWlnaHQ9IjQ3NyIgdmlld0JveD0iMCAwIDMxOSA0NzciIHdpZHRoPSIzMTkiPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgZmlsbD0iIzAwMDAwMCI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAwIiBmaWxsPSIjMDAwMDAwIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDAwMDAwMDAwIiBmaWxsPSIjMDAwMDAwIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImIiIHgxPSI1NS4zNDIwNzUlIiB4Mj0iNDIuODE2OTMzJSIgeGxpbms6aHJlZj0iI2EiIHkxPSIwJSIgeTI9IjQyLjg2Mjg1NSUiIGZpbGw9IiMwMDAwMDAiLz48bGluZWFyR3JhZGllbnQgaWQ9ImMiIHgxPSI1NS4zNDg2NDIlIiB4Mj0iNDIuODA4MTAzJSIgeGxpbms6aHJlZj0iI2EiIHkxPSIwJSIgeTI9IjQyLjg2Mjg1NSUiIGZpbGw9IiMwMDAwMDAiLz48bGluZWFyR3JhZGllbnQgaWQ9ImQiIHgxPSI1MCUiIHgyPSI1MCUiIHkxPSIwJSIgeTI9IjU4LjgxMTI0MyUiIGZpbGw9IiMwMDAwMDAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzAwMDAwMDAwMCIgZmlsbD0iIzAwMDAwMCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwMDAwMDAwMCIgZmlsbD0iIzAwMDAwMCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJlIiB4MT0iNTEuMzc3NjMlIiB4Mj0iNDQuNTg0NzE5JSIgeTE9IjE3LjQ3MjU1MSUiIHkyPSIxMDAlIiBmaWxsPSIjMDAwMDAwIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMwMDAwMDAwMDAiIGZpbGw9IiMwMDAwMDAiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMDAwMDAwMDAiIGZpbGw9IiMwMDAwMDAiLz48L2xpbmVhckdyYWRpZW50PjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTM0IC0yNCkiPjxnIHRyYW5zZm9ybT0ibWF0cml4KC45OTI1NDYxNSAuMTIxODY5MzQgLS4xMjE4NjkzNCAuOTkyNTQ2MTUgMzMuOTIyMDczIC45NzY2OTEpIj48cGF0aCBkPSJtMTAzLjk1MDUzNSAyNTguMjc0MTQ5YzQ0LjM2MTU5OS00LjM2MDgyNSA2MC4wMTQ1MDMtNDAuMzkxMjgyIDY1LjM1MzA5NC05NC42OTk0NDRzLTMwLjkzMjE5LTEwMy40NTEwMDEtNDYuMDIwMzQ3LTEwMS45Njc4MDc5Yy0xNS4wODgxNTYgMS40ODMxOTMyLTYzLjAzODUzMTMgNTguOTA1MTIzOS02OC4zNzcxMjIyIDExMy4yMTMyODY5LTUuMzM4NTkwOCA1NC4zMDgxNjIgNC42ODI3NzU0IDg3LjgxNDc5MSA0OS4wNDQzNzUyIDgzLjQ1Mzk2NXoiIGZpbGw9IiNmZmZmZmYiIHRyYW5zZm9ybT0ibWF0cml4KC43MDcxMDY3OCAtLjcwNzEwNjc4IC43MDcxMDY3OCAuNzA3MTA2NzggLTgwLjQ5NjMzMiAxMjUuODkyOTQ0KSIvPjxwYXRoIGQ9Im0yNzUuODc2NzUyIDI1OC4yNzM5OTJjNDQuMzYxNiA0LjM2MDgyNiA1My4xNjcxMzMtMjkuMjY1MzIyIDQ3LjgyODU0Mi04My41NzM0ODUtNS4zMzg1OTEtNTQuMzA4MTYyLTUyLjA3MzEzMy0xMTEuNjEwNTc0NC02Ny4xNjEyOS0xMTMuMDkzNzY3NS0xNS4wODgxNTYtMS40ODMxOTMxLTUyLjU3NDc3IDQ3LjU0MDEyNzUtNDcuMjM2MTc5IDEwMS44NDgyODk1czIyLjIwNzMyOCA5MC40NTgxMzcgNjYuNTY4OTI3IDk0LjgxODk2M3oiIGZpbGw9IiNmZmZmZmYiIHRyYW5zZm9ybT0ibWF0cml4KC43MDcxMDY3OCAuNzA3MTA2NzggLS43MDcxMDY3OCAuNzA3MTA2NzggMTkxLjQwMzM5OSAtMTQxLjg2MTk2MykiLz48cGF0aCBkPSJtMTg4LjM3MDAyNyAyMTYuODc2MzA1YzM5Ljk0MTgzNCAwIDUwLjk1MjY1LTM4LjI1MTk4NyA1MC45NTI2NS05Ny44OTg3NCAwLTU5LjY0Njc1MzItMzcuMzY3NzMzLTExOC4xMDEyNTk1Ni01MC45NTI2NS0xMTguMTAxMjU5NTZzLTUyLjA0NzM1IDU4LjQ1NDUwNjM2LTUyLjA0NzM1IDExOC4xMDEyNTk1NmMwIDU5LjY0Njc1MyAxMi4xMDU1MTYgOTcuODk4NzQgNTIuMDQ3MzUgOTcuODk4NzR6IiBmaWxsPSIjZmZmZmZmIi8+PC9nPjxwYXRoIGQ9Im0xODQuNDczNDczIDUwMWM4My4xMTg4NTQgMCAxNTAuNTI2NTI3LTI0LjE0NTE0OCAxNTAuNTI2NTI3LTEzMy42NDUxNDhzLTY3LjQwNzY3My0xOTkuMzU0ODUyLTE1MC41MjY1MjctMTk5LjM1NDg1MmMtODMuMTE4ODU1IDAtMTUwLjQ3MzQ3MyA4OS44NTQ4NTItMTUwLjQ3MzQ3MyAxOTkuMzU0ODUyczY3LjM1NDYxOCAxMzMuNjQ1MTQ4IDE1MC40NzM0NzMgMTMzLjY0NTE0OHoiIGZpbGw9IiNmZmZmZmYiLz48ZWxsaXBzZSBjeD0iMjYwLjUiIGN5PSIzMzUiIGZpbGw9IiMwMDAwMDAwMDAiIHJ4PSIyMS41IiByeT0iMTAiLz48ZWxsaXBzZSBjeD0iMTAyLjUiIGN5PSIzMjkiIGZpbGw9IiMwMDAwMDAwMDAiIHJ4PSIyMS41IiByeT0iMTAiIHRyYW5zZm9ybT0ibWF0cml4KC45OTI1NDYxNSAuMTIxODY5MzQgLS4xMjE4NjkzNCAuOTkyNTQ2MTUgNDAuODU5MDMzIC0xMC4wMzkyOTIpIi8+PGcgdHJhbnNmb3JtPSJtYXRyaXgoLS45OTkzOTA4MyAuMDM0ODk5NSAuMDM0ODk5NSAuOTk5MzkwODMgMjY5LjI4NDgyNSAyNzEuMDI3NjY3KSI+PHBhdGggZD0ibTczLjEwNDY5ODUgNTguMjcyODc5NGM2LjczNzI0MTYgNC45MTMwMzMzIDE0LjMxMzI2MzIgNi42NjQwNTg3IDIyLjcyODA2NDkgNS4yNTMwNzYxIDguNDE0ODAxNi0xLjQxMDk4MjUgMTQuNTA1NDQ2Ni01LjI1MzU3NjkgMTguMjcxOTM0Ni0xMS41Mjc3ODMiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjYiIHRyYW5zZm9ybT0ibWF0cml4KC45OTk4NDc3IC4wMTc0NTI0MSAtLjAxNzQ1MjQxIC45OTk4NDc3IDEuMDI2NDY0IC0xLjYyNDc5NCkiIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBkPSJtMTU0LjUwMTEyNCAzYy01LjkzNzU0NSAwLTExLjMxMjc4MiAyLjQwNjI5ODA1LTE1LjIwMzY0NCA2LjI5NjgwNjIxLTMuODkwOTQgMy44OTA1ODUyOS02LjI5NzQ4IDkuMjY1NDU0NDktNi4yOTc0OCAxNS4yMDI2MzE3OSAwIDUuOTM3Njg4OCAyLjQwNjQ4OCAxMS4zMTI3NDIyIDYuMjk3MjkxIDE1LjIwMzQyNzIgMy44OTA4ODYgMy44OTA3NjczIDkuMjY2MTk3IDYuMjk3MTM0OCAxNS4yMDM4MzMgNi4yOTcxMzQ4IDUuOTM3MTA5IDAgMTEuMzExODk2LTIuNDA2Mzg4OSAxNS4yMDIzODctNi4yOTcyMzQ4IDMuODkwMjk5LTMuODkwNjUzNSA2LjI5NjQ4OS05LjI2NTY2MzYgNi4yOTY0ODktMTUuMjAzMzI3MiAwLTUuOTM3MTUyMS0yLjQwNjI0Mi0xMS4zMTE5NzgxLTYuMjk2Njc3LTE1LjIwMjUzMTgxLTMuODkwNDY5LTMuODkwNTg2NzQtOS4yNjUxODEtNi4yOTY5MDYxOS0xNS4yMDIxOTktNi4yOTY5MDYxOXoiIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBkPSJtMTU0IDIxYzAtMy44NjU1NDkgMy4xMzUzNjItNyA2Ljk5OTQxMy03IDMuODY2Mzk5IDAgNy4wMDA1ODcgMy4xMzQ0NTEgNy4wMDA1ODcgN3MtMy4xMzQxODggNy03LjAwMDU4NyA3Yy0zLjg2NDA1MS0uMDAxMTczNS02Ljk5OTQxMy0zLjEzNDQ1MS02Ljk5OTQxMy03eiIgZmlsbD0iIzAwMDAwMCIvPjxwYXRoIGQ9Im0yNC41IDEzYy01LjkzNzUyOTIgMC0xMS4zMTI0MjYgMi40MDYyNjgtMTUuMjAyOTk0MjcgNi4yOTY3MTgxLTMuODkwNjk0NjQgMy44OTA1NzY1LTYuMjk3MDA1NzMgOS4yNjU0NzY1LTYuMjk3MDA1NzMgMTUuMjAyNzE5OSAwIDUuOTM3NzU0OSAyLjQwNjI1OTYyIDExLjMxMjgzOTEgNi4yOTY4MTc2NiAxNS4yMDM1MTUzIDMuODkwNTkxMDQgMy44OTA3MDkyIDkuMjY1NTYxODQgNi4yOTcwNDY3IDE1LjIwMzE4MjM0IDYuMjk3MDQ2NyA1LjkzNzEyNDkgMCAxMS4zMTIyNTE0LTIuNDA2NDE5IDE1LjIwMzAzNzEtNi4yOTczMjI5IDMuODkwNTQ0MS0zLjg5MDY2MjMgNi4yOTY5NjI5LTkuMjY1NjQxNiA2LjI5Njk2MjktMTUuMjAzMjM5MSAwLTUuOTM3MDg2LTIuNDA2NDcwMy0xMS4zMTE4ODExLTYuMjk3MTUxLTE1LjIwMjQ0MzctMy44OTA3NjMtMy44OTA2NDQ4LTkuMjY1ODE1NC02LjI5Njk5NDMtMTUuMjAyODQ5LTYuMjk2OTk0M3oiIGZpbGw9IiMwMDAwMDAiLz48ZyBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJtMTM2IDI0LjQ5OTQzOGMwIDEwLjIxODUyMzIgOC4yODI5MTEgMTguNTAwNTYyIDE4LjUwMTEyNCAxOC41MDA1NjIgMTAuMjE3MDg5IDAgMTguNDk4ODc2LTguMjgyMDM4OCAxOC40OTg4NzYtMTguNTAwNTYyIDAtMTAuMjE3Mzk5Mi04LjI4MTc4Ny0xOC40OTk0MzgtMTguNDk4ODc2LTE4LjQ5OTQzOC0xMC4yMTgyMTMgMC0xOC41MDExMjQgOC4yODIwMzg4LTE4LjUwMTEyNCAxOC40OTk0Mzh6bS02IDBjMC0xMy41MzExOTU0IDEwLjk2OTI5LTI0LjQ5OTQzOCAyNC41MDExMjQtMjQuNDk5NDM4IDEzLjUzMDgzOCAwIDI0LjQ5ODg3NiAxMC45NjgzNzExIDI0LjQ5ODg3NiAyNC40OTk0MzggMCAxMy41MzE5NjA3LTEwLjk2NzgwOCAyNC41MDA1NjItMjQuNDk4ODc2IDI0LjUwMDU2Mi0xMy41MzIwNjQgMC0yNC41MDExMjQtMTAuOTY4NDcyOC0yNC41MDExMjQtMjQuNTAwNTYyeiIgZmlsbC1ydWxlPSJub256ZXJvIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMyIgZmlsbD0iIzAwMDAwMCIvPjxwYXRoIGQ9Im02IDM0LjQ5OTQzOGMwIDEwLjIxODUyMzIgOC4yODE3ODczIDE4LjUwMDU2MiAxOC41IDE4LjUwMDU2MiAxMC4yMTcwODg5IDAgMTguNS04LjI4MjAzODggMTguNS0xOC41MDA1NjIgMC0xMC4yMTczOTkyLTguMjgyOTExMS0xOC40OTk0MzgtMTguNS0xOC40OTk0MzgtMTAuMjE4MjEyNyAwLTE4LjUgOC4yODIwMzg4LTE4LjUgMTguNDk5NDM4em0tNiAwYzAtMTMuNTMxMjk3IDEwLjk2ODI2ODEtMjQuNDk5NDM4IDI0LjUtMjQuNDk5NDM4IDEzLjUzMDkzOTggMCAyNC41IDEwLjk2ODQ3MjggMjQuNSAyNC40OTk0MzggMCAxMy41MzE4NTkxLTEwLjk2ODgzIDI0LjUwMDU2Mi0yNC41IDI0LjUwMDU2Mi0xMy41MzE5NjIgMC0yNC41LTEwLjk2ODM3MTEtMjQuNS0yNC41MDA1NjJ6IiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSIjMDAwMDAwIi8+PHBhdGggZD0ibTI0IDMxYzAtMy44NjU1NDkgMy4xMzQ0NTEtNyA3LTdzNyAzLjEzNDQ1MSA3IDctMy4xMzQ0NTEgNy03IDctNy0zLjEzNDQ1MS03LTd6IiBmaWxsPSIjMDAwMDAwIi8+PC9nPjwvZz48ZyBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS13aWR0aD0iMTEiPjxnIHN0cm9rZT0iIzAwMDAwMCI+PHBhdGggZD0ibTcwLjUgMzc3LjUgNzQgNzciIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBkPSJtMTM0LjUgMzg2LjUtNDcgNTAiIGZpbGw9IiMwMDAwMDAiLz48L2c+PGcgc3Ryb2tlPSIjMDAwMDAwIiB0cmFuc2Zvcm09Im1hdHJpeCgtMSAwIDAgMSAyOTggMzc3KSI+PHBhdGggZD0ibS41LjUgNzQgNzciIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBkPSJtNjQuNSA5LjUtNDcgNTAiIGZpbGw9IiMwMDAwMDAiLz48L2c+PGcgc3Ryb2tlPSIjMDAwMDAwIiB0cmFuc2Zvcm09Im1hdHJpeCgwIDEgLTEgMCAyMTUgMjA3KSI+PHBhdGggZD0ibS41LjUgNDkgNDkiIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBkPSJtLjUgMTAuNSA0OSA0OSIgdHJhbnNmb3JtPSJtYXRyaXgoLTEgMCAwIDEgNTAgMCkiIGZpbGw9IiMwMDAwMDAiLz48L2c+PC9nPjwvZz48L3N2Zz4=&labelColor=000)](https://pinia.vuejs.org/)
+[![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=fff&labelColor=000)](https://vuetifyjs.com/)
+[![Primevue](https://img.shields.io/badge/-Primevue-3B4E63?style=flat&logo=primevue&logoColor=fff&labelColor=000)](https://primevue.org/)
+[![TreeJS](https://img.shields.io/badge/-TreeJS-049ef4?style=flat&logo=threedotjs&logoColor=fff&labelColor=000)](https://threejs.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&tailwindcssff&labelColor=000)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff&labelColor=000)](https://www.w3schools.com/css/)
+[![SASS](https://img.shields.io/badge/-SASS-CE6C9C?style=flat&logo=sass&logoColor=fff&labelColor=000)](https://sass-lang.com/)
+[![Stylus](https://img.shields.io/badge/-Stylus-B5D21E?style=flat&logo=stylus&logoColor=fff&labelColor=000)](https://stylus-lang.com/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-1BBBD8?style=flat&logo=tailwindcss&logoColor=fff&labelColor=000)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff&labelColor=000)](https://getbootstrap.com/)
+[![Pug](https://img.shields.io/badge/-Pug-EECCA3?style=flat&logo=pug&logoColor=fff&labelColor=000)](https://pugjs.org/)
+[![CesiumJS](https://img.shields.io/badge/-CesiumJS-7A9F58?style=flat&logo=cesium&logoColor=fff&labelColor=000)](https://cesium.com/)
+[![PhaserJS](https://img.shields.io/badge/-PhaserJS-7A9F58?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjk0IiBoZWlnaHQ9IjI5OCIgdmlld0JveD0iMCAwIDI5NCAyOTgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0yNDYuMzM0IDE4My4yMjZDMjUwLjQ0NCAxNjguMzk1IDI0OC4wNzYgMTUzLjc2NCAyMzkuMjk1IDEzOS4yMTJDMjMzLjAyNiAxMjguODMyIDIyMS4yOTYgMTE1Ljk0MSAyMDQuMjUzIDEwMC41NDVDMTk0LjU1MiA5Mi4wMTYzIDE4Ny4zMTggODUuNTA4NiAxODIuMzY5IDgxLjA3NzZDMTczLjcxNyA3My4yNjk0IDE2Ni41NTYgNjYuMzQ3NyAxNjAuODI3IDYwLjI3OTZDMTQ1LjE2NiA0My43MzY2IDEzNC40NzIgMjcuNTQxIDEyOC42NjEgMTEuNTY5NUMxMjQuMzM0IDI3LjQ5NjcgMTE2LjA0NiA0My4zMTggMTAzLjY3OCA1OC45NzE5Qzk2LjcyNzYgNjcuODYxOSA4NC44MTY1IDgwLjU3OTMgNjcuODIzMyA5Ny4yMDk4QzUyLjQwMTQgMTEyLjM0MyA0MS44NjY1IDEyNC4wNjMgMzYuMTAwOCAxMzIuMzA3QzI3LjEzMTggMTQ1LjMzMiAyMi44NTMgMTU4LjA5OSAyMy4zNTU0IDE3MC41ODFDMjMuNzE4NCAxODAuMTA2IDI4LjUxOTYgMTkwLjY3NiAzNy42NzI4IDIwMi4xNjhDNDUuOTM2NCAyMTIuNjQ1IDU2Ljc3ODIgMjIyLjcwMyA3MC4yNTY5IDIzMi4zNzRDODMuMDkyMSAyNDEuNjk0IDk2LjAyNDUgMjQ5LjAyIDEwOS4wODEgMjU0LjQ0MkMxMjIuNjM4IDI2MC4wNiAxMzMuNjc3IDI2Mi40OTEgMTQyLjI5MiAyNjEuNzA4QzE2NC41NDcgMjU5LjY4OSAxODUuODI1IDI1MS4yMjQgMjA2LjIxNSAyMzYuNDM4QzIyNy40MzMgMjIwLjk2MyAyNDAuNzk4IDIwMy4xOTcgMjQ2LjMzNCAxODMuMjI2WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIxOC40MzYgMTMzLjQ5N0MyMDguNDkxIDEyNS4xNCAxOTcuMDI5IDEyMS45NDkgMTg0LjA4MiAxMjMuODY3QzE2OS42NjggMTI1Ljk3MyAxNTcuOTk5IDEzNC4xOTYgMTQ5LjA0MyAxNDguNTk0QzEzNC4wMzIgMTMzLjA4NyAxMTguNjk3IDEyMy42MjIgMTAzLjAzOCAxMjAuMkM4OC45NzU1IDExNy4xODkgNzcuNTQwMiAxMTkuMzk2IDY4LjY3MiAxMjYuNzg5QzU5Ljg2MjMgMTM0LjIxNSA1Ni4zODIxIDE0NC41MzQgNTguMjg5NSAxNTcuNzc5QzYwLjM4NjIgMTcyLjQ5MSA2OC45MTM1IDE4Ny41MSA4My45OTI2IDIwMi43NTJDOTUuNzkwMiAyMDAuNDM3IDEwNy40OTggMTk4Ljk4NCAxMTkuMTUxIDE5OC4zMzRDMTI5LjQ1NyAxOTcuNzg5IDEzOS43NDIgMTk3LjgzOSAxNTAuMDM1IDE5OC41NzVDMTYwLjU2NyAxOTkuMjg4IDE3MS4wNDcgMjAwLjY1NyAxODEuNTAyIDIwMi43N0MxODkuNDQgMjA0LjM1MSAxOTcuMzM2IDIwNi4yODkgMjA1LjIxNyAyMDguNjcyQzIyMS45MzQgMTk0LjkyNSAyMzAuOTQ5IDE4MC41NTkgMjMyLjE5NyAxNjUuNjlDMjMzLjIzMSAxNTIuNzU1IDIyOC42NzQgMTQyLjAxNCAyMTguNDM2IDEzMy40OTdaIiBmaWxsPSJibGFjayIvPgo8cGF0aCBkPSJNMTc5Ljg2NiAyMjcuMjg2QzE3Ny45MTcgMjI4LjUwMyAxNzYuMDMxIDIyOS42MDEgMTc0LjI0IDIzMC41MjVDMTY2LjI1NSAyMzQuNzU4IDE1OC42MjIgMjM3LjM2MiAxNTEuNDA2IDIzOC4yMjEiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMy45OTg0IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIxLjkgMjMyLjUxMUMxMjAuNDYzIDIzMS44MDcgMTE4Ljk2NyAyMzEuMDcgMTE3LjUzNCAyMzAuMjE3QzEwNy41MyAyMjQuNDgxIDk2LjM2MDIgMjE1LjMwNiA4My45OTIyIDIwMi43NTIiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMy45OTg0IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTUxLjQwNiAyMzguMjIxQzE0OS42OTkgMjM4LjQzMSAxNDcuOTY2IDIzOC41NTIgMTQ2LjI5NyAyMzguNTU2QzEzOC40NTIgMjM4LjYxOCAxMzAuMjg5IDIzNi42MTIgMTIxLjg5OSAyMzIuNTExIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjMuOTk4NCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTE1MC4wMzUgMTk4LjU3NEwxNTEuNDA3IDIzOC4yMjEiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMy45OTg0IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMjA1LjIxNyAyMDguNjcyQzE5NS42MTUgMjE2LjU3NyAxODcuMTc2IDIyMi43NjMgMTc5Ljg2NiAyMjcuMjg3IiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjMuOTk4NCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTE4MS41MDEgMjAyLjc3TDE3OS44NjYgMjI3LjI4NyIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIzLjk5ODQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxwYXRoIGQ9Ik0xMTkuMTUgMTk4LjMzNEwxMjEuODk5IDIzMi41MTEiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMy45OTg0IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNOTkuNDc2MiAxNTIuMzE0Qzk2Ljc0NDEgMTUyLjg3NyA5NC43NTY4IDE1NC4zMDEgOTMuNTQ4NSAxNTYuNTI2QzkyLjM0MDIgMTU4Ljc1MSA5Mi4yNTk2IDE2MS4xMzUgOTMuMjc1MSAxNjMuNzMzQzk0LjM0ODUgMTY2LjM2NCA5Ni4xODc3IDE2OC40MjQgOTguODgxNyAxNjkuODg2QzEwMS41NzUgMTcxLjM0OSAxMDQuMzA0IDE3MS43NyAxMDcuMDM3IDE3MS4yMDZDMTA5LjgyOCAxNzAuNjc1IDExMS43ODMgMTY5LjMwOSAxMTIuOTkxIDE2Ny4wODRDMTE0LjIgMTY0Ljg1OSAxMTQuMzEyIDE2Mi40MTcgMTEzLjIzOCAxNTkuNzg3QzExMi4xOTEgMTU3LjI0NyAxMTAuMzIgMTU1LjI0NSAxMDcuNjI3IDE1My43ODJDMTA0LjkzMyAxNTIuMzE5IDEwMi4yMzUgMTUxLjg0MSA5OS40NzYyIDE1Mi4zMTRaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTk2LjQ5MiAxNzMuOTA1QzE5OS4wOCAxNzIuMzUzIDIwMC44MjEgMTcwLjI2NSAyMDEuNzQ3IDE2Ny41ODJDMjAyLjY0IDE2NC45NiAyMDIuMzkyIDE2Mi42MjUgMjAxLjA2MyAxNjAuNDYyQzE5OS43MzUgMTU4LjMwMSAxOTcuNzIyIDE1Ni45OCAxOTQuOTkyIDE1Ni41NTlDMTkyLjE3MyAxNTYuMTY2IDE4OS40OTkgMTU2Ljc2MiAxODYuOTExIDE1OC4zMTRDMTg0LjMyNSAxNTkuODY2IDE4Mi42MTEgMTYyLjA0NSAxODEuNzE4IDE2NC42NjhDMTgwLjgyMiAxNjcuMjkyIDE4MS4wMDggMTY5Ljc0NCAxODIuMzM4IDE3MS45MDVDMTgzLjY2NSAxNzQuMDY4IDE4NS43MSAxNzUuMzMgMTg4LjQ3MSAxNzUuNjkxQzE5MS4yMzEgMTc2LjA1MyAxOTMuOTA2IDE3NS40NTggMTk2LjQ5MiAxNzMuOTA1WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&logoColor=fff&labelColor=000)](https://cesium.com/)
+
+
+###### Backend
+
+[![NodeJS](https://img.shields.io/badge/-NodeJS-46AD34?style=flat&logo=Node.js&logoColor=fff&labelColor=000)](https://nodejs.org/)
+[![ExpressJS](https://img.shields.io/badge/-ExpressJS-93C747?style=flat&logo=express&logoColor=fff&labelColor=000)](https://expressjs.com/)
+[![PHP](https://img.shields.io/badge/-PHP-4E619A?style=flat&logo=PHP&logoColor=fff&labelColor=000)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/-Laravel-EF4A2B?style=flat&logo=Laravel&logoColor=fff&labelColor=000)](https://laravel.com/)
+[![Strapi](https://img.shields.io/badge/-Strapi-36358F?style=flat&logo=strapi&logoColor=fff&labelColor=000)](https://strapi.io/)
+
+
+###### Database
+
+[![MySQL](https://img.shields.io/badge/-MySQL-12658E?style=flat&logo=mysql&logoColor=fff&labelColor=000)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff&labelColor=000)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-55ADDF?style=flat&logo=SQLite&logoColor=fff&labelColor=000)](https://www.sqlite.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-84C769?style=flat&logo=mongodb&logoColor=fff&labelColor=000)](https://www.mongodb.com/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=fff&labelColor=000)](https://graphql.org/)
+[![Redis](https://img.shields.io/badge/-Redis-DA3328?style=flat&logo=Redis&logoColor=fff&labelColor=000)](https://redis.io/)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-D8A441?style=flat&logo=elasticsearch&logoColor=fff&labelColor=000)](https://www.elastic.co/elasticsearch)
+
+###### Building & DevOps
+
+[![Yarn](https://img.shields.io/badge/-Yarn-3592BD?style=flat&logo=yarn&logoColor=fff&labelColor=000)](https://yarnpkg.com/)
+[![Bun](https://img.shields.io/badge/-Bun-C8B9A8?style=flat&logo=bun&logoColor=fff&labelColor=000)](https://bun.sh/)
+[![Npm](https://img.shields.io/badge/-Npm-CC3F3E?style=flat&logo=npm&logoColor=fff&labelColor=000)](https://www.npmjs.com/)
+[![Webpack](https://img.shields.io/badge/-Webpack-92D7FC?style=flat&logo=webpack&logoColor=fff&labelColor=000)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/-Vite-A766F8?style=flat&logo=vite&logoColor=fff&labelColor=000)](https://vite.dev/)
+[![Docker](https://img.shields.io/badge/-Docker-1895E6?style=flat&logo=docker&logoColor=fff&labelColor=000)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/-Git-F0563B?style=flat&logo=git&logoColor=fff&labelColor=000)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-2B3035?style=flat&logo=github&logoColor=fff&labelColor=000)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-E34930?style=flat&logo=gitlab&logoColor=fff&labelColor=000)](https://gitlab.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D53F39?style=flat&logo=jenkins&logoColor=fff&labelColor=000)](https://www.jenkins.io/)
+[![Debian](https://img.shields.io/badge/-Debian-AB1036?style=flat&logo=debian&logoColor=fff&labelColor=000)](https://www.debian.org/)
+
+###### Tools
+
+[![PhpStorm](https://img.shields.io/badge/-PhpStorm-FF3593?style=flat&logo=phpstorm&logoColor=fff&labelColor=000)](https://www.jetbrains.com/phpstorm/)
+[![DBeaver](https://img.shields.io/badge/-DBeaver-A38873?style=flat&logo=dbeaver&logoColor=fff&labelColor=000)](https://dbeaver.io/)
+[![Studio3T](https://img.shields.io/badge/-Studio3T-23B16C?style=flat&logo=studio3t&logoColor=fff&labelColor=000)](https://studio3t.com/)
+[![Termius](https://img.shields.io/badge/-Termius-353F78?style=flat&logo=termius&logoColor=fff&labelColor=000)](https://termius.com/)
+[![Figma](https://img.shields.io/badge/-Figma-A45EFE?style=flat&logo=figma&logoColor=fff&labelColor=000)](https://www.figma.com/)
+[![Postman](https://img.shields.io/badge/-Postman-FD703C?style=flat&logo=postman&logoColor=fff&labelColor=000)](https://www.postman.com/)
+
+
+##### Extra
+[![Python](https://img.shields.io/badge/-Python-FFD149?style=flat&logo=Python&logoColor=fff&labelColor=000)](https://www.python.org/)
+[![Lua](https://img.shields.io/badge/-Lua-0A0986?style=flat&logo=Lua&logoColor=fff&labelColor=000)](https://www.lua.org/)
+[![RobloxStudio](https://img.shields.io/badge/-RobloxStudio-CFD5E0?style=flat&logo=robloxstudio&logoColor=fff&labelColor=000)](https://create.roblox.com/)
+[![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=Unity&logoColor=fff&labelColor=000)](https://unity.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-179A9E?style=flat&logo=arduino&logoColor=fff&labelColor=000)](https://www.raspberrypi.com/)
+[![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-pi&logoColor=fff&labelColor=000)](https://www.raspberrypi.com/)
+
+#### ✉ Contacts
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBiYXNlUHJvZmlsZT0idGlueSIgdmVyc2lvbj0iMS4yIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMTlINVY5aDN2MTB6bTExIDBoLTN2LTUuMzQyYzAtMS4zOTItLjQ5Ni0yLjA4NS0xLjQ3OS0yLjA4NS0uNzc5IDAtMS4yNzMuMzg4LTEuNTIxIDEuMTY1VjE5aC0zcy4wNC05IDAtMTBoMi4zNjhsLjE4MyAyaC4wNjJjLjYxNS0xIDEuNTk4LTEuNjc4IDIuOTQ2LTEuNjc4IDEuMDI1IDAgMS44NTQuMjg1IDIuNDg3IDEuMDAxLjYzNy43MTcuOTU0IDEuNjc5Ljk1NCAzLjAzVjE5eiIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9ImZpbGwtMDAwMDAwIj48L3BhdGg+PGVsbGlwc2UgY3g9IjYuNSIgY3k9IjYuNSIgcng9IjEuNTUiIHJ5PSIxLjUiIGZpbGw9IiNmZmZmZmYiIGNsYXNzPSJmaWxsLTAwMDAwMCI+PC9lbGxpcHNlPjwvc3ZnPg==&color=027BB5&labelColor=027BB5)](https://www.linkedin.com/in/j-tap/)
+[![Discord](https://img.shields.io/badge/-Discord-5669F6?style=flat&logo=discord&logoColor=fff)](https://discordapp.com/users/j_tap)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=fff)](https://t.me/j_tap)
+[![Gmail](https://img.shields.io/badge/-Gmail-D34335?style=flat&logo=gmail&logoColor=fff)](mailto:xzenby@gmail.com)
+
+![Views](https://komarev.com/ghpvc/?username=j-tap&color=161B22&style=flat&label=Views&logo=eye)
