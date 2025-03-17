@@ -7,6 +7,7 @@
 ## ☕️ About
 
 👋 Hi, I have been working in development since 2012. 
+
 💻 Specializing in building scalable web applications using modern technology stacks for both client and server sides.
 
 &nbsp;
