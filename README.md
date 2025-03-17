@@ -4,9 +4,10 @@
 
 💼 [#OpenToWork](https://www.linkedin.com/in/klarkc)
 
-## 💻 About
+## ☕️ About
 
-👋 Hi, I have been working in development since 2012, specializing in building scalable web applications using modern technology stacks for both client and server sides.
+👋 Hi, I have been working in development since 2012. 
+💻 Specializing in building scalable web applications using modern technology stacks for both client and server sides.
 
 &nbsp;
 
