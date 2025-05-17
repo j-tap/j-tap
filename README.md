@@ -38,6 +38,7 @@
 
 [![NodeJS](https://img.shields.io/badge/-NodeJS-46AD34?style=flat&logo=Node.js&logoColor=fff&labelColor=000)](https://nodejs.org/)
 [![ExpressJS](https://img.shields.io/badge/-ExpressJS-93C747?style=flat&logo=express&logoColor=fff&labelColor=000)](https://expressjs.com/)
+[![FastifyJS](https://img.shields.io/badge/-FastifyJS-111?style=flat&logo=fastify&logoColor=fff&labelColor=000)](https://fastify.dev/)
 [![PHP](https://img.shields.io/badge/-PHP-4E619A?style=flat&logo=PHP&logoColor=fff&labelColor=000)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/-Laravel-EF4A2B?style=flat&logo=Laravel&logoColor=fff&labelColor=000)](https://laravel.com/)
 [![Strapi](https://img.shields.io/badge/-Strapi-36358F?style=flat&logo=strapi&logoColor=fff&labelColor=000)](https://strapi.io/)
