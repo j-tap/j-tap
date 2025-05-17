@@ -2,7 +2,7 @@
 
 :four_leaf_clover:
 
-💼 [#OpenToWork](https://www.linkedin.com/in/klarkc)
+💼 [#OpenToWork](https://www.linkedin.com/in/j-tap)
 
 ## ☕️ About
 
